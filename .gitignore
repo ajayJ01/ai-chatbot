@@ -1,0 +1,48 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Environment variables (CRITICAL - Don't push!)
+.env
+.env.local
+.env.production
+
+# Database
+*.sql.backup
+database/backups/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# Temporary files
+temp/
+tmp/
+*.tmp
+
+# Build outputs
+dist/
+build/
+
+# Testing
+coverage/
+
+# Model cache (if using local models)
+.cache/
+models/
+
+# OS
+Thumbs.db
+.DS_Store

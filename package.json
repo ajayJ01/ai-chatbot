@@ -1,0 +1,22 @@
+{
+  "name": "ai-chat-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fastify/cors": "^11.2.0",
+    "@fastify/static": "^9.0.0",
+    "@xenova/transformers": "^2.17.2",
+    "dotenv": "^17.3.1",
+    "fastify": "^5.7.4",
+    "mysql2": "^3.17.4",
+    "node-fetch": "^3.3.2"
+  }
+}
