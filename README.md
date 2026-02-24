@@ -35,7 +35,7 @@ An intelligent customer support chatbot built with RAG (Retrieval-Augmented Gene
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-chatbot.git
+git clone https://github.com/ajayJ01/ai-chatbot.git
 cd ai-chatbot
 ```
 
@@ -229,8 +229,8 @@ This project is licensed under the MIT License.
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- Email: your.email@example.com
+- GitHub: [@ajayJ01](https://github.com/ajayJ01)
+- Email: ajayjakhar5818@gmail.com
 
 ## 🙏 Acknowledgments
 
