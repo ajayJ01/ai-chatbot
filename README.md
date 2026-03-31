@@ -228,7 +228,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Ajay Jakhar**
 - GitHub: [@ajayJ01](https://github.com/ajayJ01)
 - Email: ajayjakhar5818@gmail.com
 
